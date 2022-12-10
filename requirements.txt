@@ -1,0 +1,5 @@
+numpy~=1.23.2
+pillow~=9.2.0
+torch~=1.12.0
+scapy~=git-archive.dev8b63d73a17
+torchvision~=0.13.1
